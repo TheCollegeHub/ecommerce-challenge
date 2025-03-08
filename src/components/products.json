@@ -1,0 +1,151 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "MacBook Pro 16\"",
+            "category": "Laptops",
+            "price": 2499.99,
+            "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=3126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy S23 Ultra",
+            "category": "Smartphones",
+            "price": 1199.99,
+            "image": "https://images.unsplash.com/photo-1709744722656-9b850470293f?q=80&w=2252&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 3,
+            "name": "Logitech MX Master 3S",
+            "category": "Accessories",
+            "price": 99.99,
+            "image": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 4,
+            "name": "Apple AirPods Pro (2nd Gen)",
+            "category": "Accessories",
+            "price": 249.99,
+            "image": "https://images.unsplash.com/photo-1585565804112-f201f68c48b4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 5,
+            "name": "Sony WH-1000XM5",
+            "category": "Headphones",
+            "price": 399.99,
+            "image": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?q=80&w=2249&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 6,
+            "name": "iPhone 15 Pro Max",
+            "category": "Smartphones",
+            "price": 1299.99,
+            "image": "https://images.unsplash.com/photo-1695822822491-d92cee704368?q=80&w=3072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 7,
+            "name": "Dell XPS 15",
+            "category": "Laptops",
+            "price": 2199.99,
+            "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 8,
+            "name": "Samsung Odyssey G9",
+            "category": "Monitors",
+            "price": 1299.99,
+            "image": "https://images.unsplash.com/photo-1666771410003-8437c4781d49?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 9,
+            "name": "Razer BlackWidow V4",
+            "category": "Accessories",
+            "price": 169.99,
+            "image": "https://images.unsplash.com/photo-1583441424221-c41173afe9ec?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 10,
+            "name": "GoPro Hero 12",
+            "category": "Cameras",
+            "price": 499.99,
+            "image": "https://images.unsplash.com/photo-1513555633610-d912838b8ac5?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 11,
+            "name": "Amazon Echo Dot (5th Gen)",
+            "category": "Smart Home",
+            "price": 49.99,
+            "image": "https://images.unsplash.com/photo-1621274147744-cfb5694bb233?q=80&w=3260&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 12,
+            "name": "Nintendo Switch OLED",
+            "category": "Gaming",
+            "price": 349.99,
+            "image": "https://images.unsplash.com/photo-1680007966627-d49ae18dbbae?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 13,
+            "name": "Apple Watch Series 9",
+            "category": "Wearables",
+            "price": 399.99,
+            "image": "https://images.unsplash.com/photo-1705307543536-06ebcb39bb0c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 14,
+            "name": "Canon EOS D6",
+            "category": "Cameras",
+            "price": 2499.99,
+            "image": "https://images.unsplash.com/photo-1497617226900-8e7fc1873e25?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 15,
+            "name": "JBL Flip 5",
+            "category": "Speakers",
+            "price": 109.99,
+            "image": "https://images.unsplash.com/photo-1558537348-c0f8e733989d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 16,
+            "name": "DJI Mini 2",
+            "category": "Drones",
+            "price": 759.99,
+            "image": "https://images.unsplash.com/photo-1666315915304-6561a573f61f?q=80&w=3264&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 17,
+            "name": "Logitech StreamCam",
+            "category": "Webcams",
+            "price": 249.99,
+            "image": "https://images.unsplash.com/photo-1623949556303-b0d17d198863?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 18,
+            "name": "Samsung 980 Pro NVMe SSD",
+            "category": "Storage",
+            "price": 129.99,
+            "image": "https://images.unsplash.com/photo-1659540190941-66606ec13ca6?q=80&w=3131&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 19,
+            "name": "Fitbit Charge 5",
+            "category": "Wearables",
+            "price": 149.99,
+            "image": "https://images.unsplash.com/photo-1557045136-50ed3874553c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 20,
+            "name": "Hollyland Lark M2",
+            "category": "Accessories",
+            "price": 169.99,
+            "image": "https://images.unsplash.com/photo-1707328835136-e35ea3430300?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 22,
+            "name": "Canon EOS ID-X",
+            "category": "Cameras",
+            "price": 3899.99,
+            "image": "https://images.unsplash.com/photo-1621218702600-29f8a357fce4?q=80&w=3203&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}

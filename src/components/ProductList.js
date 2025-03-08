@@ -20,13 +20,9 @@ import {
 import { ShoppingCart, Search, Assignment } from "@mui/icons-material";
 import { useNavigate } from "react-router-dom";
 import logo from '../assets/logo-store.png';
+import initialProducts from "./products.json"
 
-const initialProducts = [
-  { id: 1, name: "MacBook Pro 16\"", category: "Laptops", price: 2499.99, image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=3126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
-  { id: 2, name: "Samsung Galaxy S23 Ultra", category: "Smartphones", price: 1199.99, image: "https://images.unsplash.com/photo-1709744722656-9b850470293f?q=80&w=2252&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
-  { id: 3, name: "Logitech MX Master 3S", category: "Accessories", price: 99.99, image: "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
-  { id: 4, name: "Apple AirPods Pro (2nd Gen)", category: "Accessories", price: 249.99, image: "https://images.unsplash.com/photo-1585565804112-f201f68c48b4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
-];
+initialProducts = initialProducts.products;
 
 const ProductList = () => {
   const [products, setProducts] = useState(initialProducts);
